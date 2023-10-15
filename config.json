@@ -1,4 +1,5 @@
-{   "version": 0.02,
+{   
+    "version": 0.02,
     "models": ["llama2_7b_chat", "llama2_13b_chat", "codellama_7b_python", "codellama_13b_python"],
     "llama2": {
         "model_7b": {

@@ -3,7 +3,7 @@
 
 Basic APIs for serving LLMs locally.
 
-**In construction**
+*In construction*
 
 ### Serve the Model
 ```

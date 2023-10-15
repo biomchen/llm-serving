@@ -1,7 +1,7 @@
 
-## llm-serving
+## Large Language Model Serving using Customerized APIs
 
-Basic APIs for serving LLMs locally.
+Customerized APIs for serving LLMs locally.
 
 *In construction*
 

@@ -3,7 +3,8 @@
 
 Customerized APIs for serving LLMs locally.
 
-*In construction*
+<font color="orange"><i>In construction</i></font>
+
 ### Introduction
 -- placehold --
 

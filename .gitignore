@@ -162,7 +162,6 @@ cython_debug/
 # llms
 codellama-13b-python-hf/
 codellama-7b-python-hf/
-config.json
 llama-2-13b-chat-hf/
 llama-2-7b-chat-hf/
 __pycache__/

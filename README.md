@@ -6,10 +6,10 @@ Customerized APIs for serving LLMs locally.
 <i>In construction</i>
 
 ### Introduction
--- placehold --
+-- placeholder --
 
 ### Tech stack
--- placehold --
+-- placeholder --
 
 ### Serve the Model
 ```

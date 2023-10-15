@@ -3,7 +3,6 @@ from transformers import pipeline, AutoTokenizer
 
 from utils import Configs
 
-
 class CodeLlamaPython7b(Configs):
 
     def __init__(self):

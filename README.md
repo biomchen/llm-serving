@@ -7,5 +7,5 @@ Customerized APIs for serving LLMs locally.
 
 ### Serve the Model
 ```
-uvicorn --host 0.0.0.0 llama2_7b_chat_api:app
+uvicorn --host 0.0.0.0 serve:app
 ```

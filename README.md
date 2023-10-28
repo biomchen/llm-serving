@@ -8,10 +8,10 @@ Customerized APIs for serving LLMs locally.
 ### Introduction
 -- placeholder --
 
-### Tech stack
+### Requirements
 -- placeholder --
 
-### Serve the Model
+### Deployment
 ```
 uvicorn --host 0.0.0.0 serve:app
 ```

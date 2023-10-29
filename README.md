@@ -1,5 +1,5 @@
 
-# Large Language Model Serving using Customerized APIs
+# LLM Serving using Customerized APIs
 
 Customerized APIs for serving LLMs locally.
 

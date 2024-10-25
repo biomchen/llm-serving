@@ -1,0 +1,9 @@
+[{
+    "max_length": 4000,
+    "top_k": 5,
+    "temperature": 0.9,
+    "top_p": 0.5,
+    "task":"text-generation",
+    "do_sample": true,
+    "num_return_sequence": 1
+}]
